@@ -25,7 +25,7 @@ To accommodate more characters on a small display, some characters are called up
 
 
 ## How to install
-Copy the contents of the repository to the applications_user/LoRA_terminal folder Flipper Zero firmware and build app with the command ./fbt fap_LoRA-Term.
+Copy the contents of the repository to the applications_user/LoRA_terminal folder Flipper Zero firmware and build app with the command ./fbt fap_LoRA_terminal.
 
 Or use the tool [uFBT](https://github.com/flipperdevices/flipperzero-ufbt) for building applications for Flipper Zero.
 
