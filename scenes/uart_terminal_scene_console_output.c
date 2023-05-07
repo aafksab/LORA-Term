@@ -1,7 +1,7 @@
-#include "applications/external/lora_terminal/uart_terminal_app_i.h"
+#include "applications_user/LoRA_terminal/uart_terminal_app_i.h"
 #include <string.h>
 #include <furi.h>
-#define appName "lora_terminal"
+#define appName "LoRA_terminal"
 
 void uart_terminal_console_output_handle_rx_data_cb(uint8_t* buf, size_t len, void* context) {
     furi_assert(context);
